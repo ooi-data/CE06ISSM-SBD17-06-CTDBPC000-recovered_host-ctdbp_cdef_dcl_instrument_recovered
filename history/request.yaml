@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE06ISSM-SBD17-06-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered
-last_request: '2022-01-01T01:35:27.091356Z'
+last_request: '2022-01-21T02:14:20.104304Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-SBD17-06-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered/main/history/response.json
-status: success
+status: failed
